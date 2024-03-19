@@ -21,9 +21,9 @@
     
 <div align="center">  
 
-  <img width=50% src="https://github-readme-streak-stats.herokuapp.com?user=Baneza-LCM&theme=blue-green&mode=weekly&locale=pt-br" />
+  <img width=50% height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Baneza-LCM&theme=blue-green&mode=weekly&locale=pt-br" />
   <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baneza-LCM&show_icons=true) -->
-  <img width="42%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baneza-LCM&layout=compact&hide_border=false&theme=blue-green&mode=weekly&locale=pt-br" />
+  <img width="43%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baneza-LCM&layout=compact&hide_border=false&theme=blue-green&mode=weekly&locale=pt-br" />
 
 </div>
 
@@ -32,7 +32,7 @@
 <details>
   <summary>👨‍💻 Um pouco mais sobre mim (curiosidades)</summary>
 
-  - 📢 Além de espanhol e inglês, tenho interesse em aprender francês e alemão. Atualmente, estou procurando curtos cursos para aprender mais sobre eles, e aplicar eles no mercado de trabalho que me espera no futuro.
+  - 📢 Além de espanhol e inglês, tenho interesse em aprender francês e alemão. Atualmente, estou procurando cursos online para aprender mais sobre eles, e aplicar eles no mercado de trabalho que me espera no futuro.
 
   - 🎨 Gosto no que se relaciona em arte e criatividade, seja em forma de designs, desenhos, animações ou outras coisas relacionadas.
 
@@ -87,5 +87,8 @@
 ## Outros:
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)&nbsp;
 ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white)&nbsp;
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)&nbsp;
+![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)&nbsp;
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white)&nbsp;
+![TinkerCad](https://img.shields.io/badge/Tinkercad-1477D1.svg?style=for-the-badge&logo=Tinkercad&logoColor=white)&nbsp;
+
+<!-- ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)&nbsp; -->
