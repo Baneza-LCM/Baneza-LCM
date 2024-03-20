@@ -8,7 +8,7 @@
 
 
 <p align="center">I'm Learning, Creating and Memorizing ❤️ <br><br> 
-  "O interesse que tenho em programação me despertou de uma forma que eu nunca pensava."</p>&nbsp;
+  "O interesse que tenho em programação me despertou de uma forma que eu nunca pensava."</p>
 
   👨‍💻 Sobre mim
 
