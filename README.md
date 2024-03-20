@@ -12,7 +12,7 @@
 
   👨‍💻 Sobre mim
 
-  - 💬 Tenho 16 anos e atualmente moro no Brasil. Desde cedo possuo interesse em espanhol, tão encantada e diferente do português que eu aprendi nas escolas, depois veio o inglês, abrindo portas para descobrir mais sobre os diferente idiomas.
+  - 💬 Tenho 17 anos e atualmente moro no Brasil. Desde cedo possuo interesse em espanhol, tão encantada e diferente do português que eu aprendi nas escolas, depois veio o inglês, abrindo portas para descobrir mais sobre os diferente idiomas.
 
   - 🏫 Atualmente sou uma estudante na Etec da Zona Leste, desde 2022, estudando Desenvolvimento de Sistemas junto com os meus colegas. Nós já desenvolvemos vários programas e aplicativos nesses anos, sendo atividades ou trabalhos grandes e educativos.
 
