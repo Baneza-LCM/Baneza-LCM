@@ -1,7 +1,7 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=45&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Baneza+Livia+:D;I'm+17+years+old;I+am+from+São+Paulo,+SP;And+I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div id="user-content-toc">
   <ul align="center">
-    <h1 align="center"> <summary><h1 style="display: inline-block">Hi! I'm Baneza Livia :D </summary>
+    <!-- <h1 align="center"> <summary><h1 style="display: inline-block">Hi! I'm Baneza Livia :D </summary> -->
  <img src="https://media.tenor.com/qhcRVSoKQ-YAAAAi/totoro-discord.gif" width="100%" height="100%">
     </h1>
 </div>
@@ -21,9 +21,9 @@
     
 <div align="center">  
 
-  <img width=50% height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Baneza-LCM&theme=blue-green&mode=weekly&locale=pt-br" />
+  <img width=52% height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Baneza-LCM&theme=blue-green&mode=weekly&locale=pt-br" />
   <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baneza-LCM&show_icons=true) -->
-  <img width="43%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baneza-LCM&layout=compact&hide_border=false&theme=blue-green&mode=weekly&locale=pt-br" />
+  <img width="44%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baneza-LCM&layout=compact&hide_border=false&theme=blue-green&mode=weekly&locale=pt-br" />
 
 </div>
 
@@ -69,13 +69,16 @@
 
 ## Programas
 
+
 ### Para programar:
+
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
+
 ![NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)&nbsp;
 ![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)&nbsp;
-
 
 
 ### Para Designs:
@@ -86,7 +89,7 @@
 ![MediBang](https://img.shields.io/badge/MediBang%20Paint-00DBDE.svg?style=for-the-badge&logo=MediBang-Paint&logoColor=white)&nbsp;
 
 
-## Outros:
+### Outros:
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)&nbsp;
 ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white)&nbsp;
 ![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)&nbsp;
