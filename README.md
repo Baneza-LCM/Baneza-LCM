@@ -38,7 +38,7 @@
 
   - 📚 Sempre fui uma amante em leitura. Com isso, comecei a criar as minhas próprias histórias de forma digital, porém em rascunhos, e posso dizer que amo as criações que eu realizo. Sou apaixonada em ler e escrever.
 
-  - 🎮 Eu também adoro jogos e a maneira como os programadores desenvolvem eles. Sempre quis ter minha própria empresa de jogos ou participar de uma, tenho tantas ideias e roteiros para jogos interativos que me perco ás vezes :D.
+  - 🎮 Eu também adoro jogos e a maneira como os programadores desenvolvem eles. Sempre quis ter minha própria empresa de jogos ou participar de uma, tenho tantas ideias e roteiros :D.
 
   <!-- - 📚 XXX. -->
 </details>
@@ -61,6 +61,7 @@
 
 ### Estudando atualmente: 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![Composer](https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
@@ -78,7 +79,7 @@
 ![NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)&nbsp;
 ![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)&nbsp;
 
 
@@ -92,7 +93,6 @@
 
 ### Outros:
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)&nbsp;
-![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white)&nbsp;
 ![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)&nbsp;
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white)&nbsp;
 ![TinkerCad](https://img.shields.io/badge/Tinkercad-1477D1.svg?style=for-the-badge&logo=Tinkercad&logoColor=white)&nbsp;
@@ -104,4 +104,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Baneza-LCN}/count.svg" /></p> 
 <br></div>
 
-<!-- ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)&nbsp; -->
+<!-- ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)&nbsp;
+![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white)&nbsp; -->
+
