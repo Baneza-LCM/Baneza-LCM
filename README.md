@@ -32,11 +32,11 @@
 <details>
   <summary>👨‍💻 Um pouco mais sobre mim (curiosidades)</summary>
 
-  - 📢 Além de espanhol e inglês, tenho interesse em aprender francês e alemão. Atualmente, estou procurando cursos online para aprender mais sobre eles, e aplicar eles no mercado de trabalho que me espera no futuro.
+  - 📢 Além de espanhol e inglês, tenho interesse em aprender francês. Atualmente, estou procurando cursos online para aprender mais sobre ele, e aplica-lo no mercado de trabalho, que me espera no futuro.
 
   - 🎨 Gosto no que se relaciona em arte e criatividade, seja em forma de designs, desenhos, animações ou outras coisas relacionadas.
 
-  - 📚 Sempre fui uma amante em leitura, desde criança eu sempre tive interesse. Com isso, comecei a criar as minhas próprias histórias de forma digital, porém em rascunhos, e posso dizer que amo as criações que eu realizo. Sou apaixonada em ler e escrever.
+  - 📚 Sempre fui uma amante em leitura. Com isso, comecei a criar as minhas próprias histórias de forma digital, porém em rascunhos, e posso dizer que amo as criações que eu realizo. Sou apaixonada em ler e escrever.
 
   - 🎮 Eu também adoro jogos e a maneira como os programadores desenvolvem eles. Sempre quis ter minha própria empresa de jogos ou participar de uma, tenho tantas ideias e roteiros para jogos interativos que me perco ás vezes :D.
 
@@ -63,9 +63,9 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![JetPackCompose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
 
 
 ## Programas
@@ -96,6 +96,12 @@
 ![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)&nbsp;
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white)&nbsp;
 ![TinkerCad](https://img.shields.io/badge/Tinkercad-1477D1.svg?style=for-the-badge&logo=Tinkercad&logoColor=white)&nbsp;
+![AutoDesk](https://img.shields.io/badge/Autodesk-000000.svg?style=for-the-badge&logo=Autodesk&logoColor=white)&nbsp;
 ![CiscoPacketTracer](https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white)&nbsp;
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Baneza-LCN}/count.svg" /></p> 
+<br></div>
 
 <!-- ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)&nbsp; -->
