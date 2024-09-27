@@ -7,14 +7,13 @@
 </div>
 
 
-<p align="center">I'm Learning, Creating and Memorizing ❤️ <br><br> 
-  "O interesse que tenho em programação me despertou de uma forma que eu nunca pensava."</p>&nbsp;
+<p align="center">I'm Learning, Creating and Memorizing ❤️ <br>
 
   👨‍💻 Sobre mim
 
-  - 💬 Tenho 17 anos e atualmente moro no Brasil. Desde cedo possuo interesse em espanhol, tão encantada e diferente do português que eu aprendi nas escolas, depois veio o inglês, abrindo portas para descobrir mais sobre os diferente idiomas.
+  - 💬 Tenho 17 anos e atualmente moro em São Paulo - SP.
 
-  - 🏫 Atualmente sou uma estudante na Etec da Zona Leste, desde 2022, estudando Desenvolvimento de Sistemas junto com os meus colegas. Nós já desenvolvemos vários programas e aplicativos nesses anos, sendo atividades ou trabalhos grandes e educativos.
+  - 🏫 Sou estudante da Etec da Zona Leste, desde 2022, estudando Desenvolvimento de Sistemas.
 
 
 <br>
@@ -24,7 +23,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Baneza-LCM&theme=blue-green&mode=weekly" />
   <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baneza-LCM&show_icons=true) -->
   <!-- <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baneza-LCM&layout=compact&hide_border=false&langs_count=8&theme=blue-green&mode=weekly&locale=pt-br" /> -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Baneza-LCM&layout=compact&langs_count=8&theme=blue-green&mode=weekly&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Baneza-LCM&layout=compact&langs_count=6&theme=blue-green&mode=weekly&locale=pt-br"/>
 
 </div>
 
