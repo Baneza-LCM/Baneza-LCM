@@ -20,7 +20,7 @@
     
 <div align="center">  
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Baneza-LCM&theme=blue-green&mode=weekly" />
+  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Baneza-LCM&theme=blue-green&mode=weekly" /> -->
   <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baneza-LCM&show_icons=true) -->
   <!-- <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baneza-LCM&layout=compact&hide_border=false&langs_count=8&theme=blue-green&mode=weekly&locale=pt-br" /> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Baneza-LCM&layout=compact&langs_count=6&theme=blue-green&mode=weekly&locale=pt-br"/>
@@ -58,16 +58,14 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ### Estudando atualmente: 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![Composer](https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
-
+![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 ## Programas
 
