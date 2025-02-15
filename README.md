@@ -13,7 +13,9 @@
 
   - 💬 Tenho 17 anos e atualmente moro em São Paulo - SP.
 
-  - 🏫 Sou estudante da Etec da Zona Leste, desde 2022, estudando Desenvolvimento de Sistemas.
+  - 🏫 Sou estudante da Fatec da Zona Leste, estudando Análise e Desenvolvimento de Sistemas.
+
+  - 📚 3 anos concluídos na Etec Zona Leste, tendo feito Desenvolvimento de Sistemas - AMS.
 
 
 <br>
