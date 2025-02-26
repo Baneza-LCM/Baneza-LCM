@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=45&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Baneza+Livia+:D;I'm+17+years+old;I+am+from+São+Paulo,+SP;And+I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=45&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Baneza+Livia+:D;I'm+17+years+old;I+am+from+São+Paulo,+SP;And+I+study+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div id="user-content-toc">
   <ul align="center">
     <!-- <h1 align="center"> <summary><h1 style="display: inline-block">Hi! I'm Baneza Livia :D </summary> -->
@@ -68,6 +68,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
 ## Programas
 
