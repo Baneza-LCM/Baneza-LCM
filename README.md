@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=45&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Baneza+Livia+:D;I'm+17+years+old;I+am+from+São+Paulo,+SP;And+I+study+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=45&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Baneza+Livia+:D;I'm+17+years+old;I+am+from+São+Paulo,+SP;I+study+systems+analysis+and+development;Be+Welcome!+:%27)](https://git.io/typing-svg)
 <div id="user-content-toc">
   <ul align="center">
     <!-- <h1 align="center"> <summary><h1 style="display: inline-block">Hi! I'm Baneza Livia :D </summary> -->
